@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {	"name": 	"Ciro Viana",
+				"email": 	"cirotviana@gmail.com",
+				"url": 		"https://github.com/cirotviana/"},	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
